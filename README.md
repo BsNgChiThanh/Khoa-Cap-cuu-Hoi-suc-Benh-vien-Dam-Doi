@@ -25,4 +25,4 @@ STT | Họ và tên | Chức vụ | Ghi chú
 11 | Lê Minh Trí | CĐ ĐD | |  
 12 | Đặng Nga Mi | CĐ ĐD | |  
 13 | Dương Minh Toàn | ĐD | |  
-12 | Nguyễn Thị Sên | Hộ lý | |  
+14 | Nguyễn Thị Sên | Hộ lý | |  
