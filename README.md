@@ -8,7 +8,7 @@ _👯Sau đây tôi xin cập nhật những thông tin quan trọng của Khoa 
 
 **🔭Bằng cấp của khoa:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EgKyjvWebndDln15IHCtFoIBfztEbaz61cjWdrFq6hinaw?e=CY26Tt 
 
-**_🔭Danh sách Khoa CC-HSTC-CĐ:_**
+# Danh sách Khoa CC-HSTC-CĐ
 
 STT | Họ và tên | Chức vụ | Ghi chú
 -- | -- | -- | -- 
