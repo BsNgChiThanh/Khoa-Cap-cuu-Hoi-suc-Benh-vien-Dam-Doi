@@ -10,6 +10,8 @@ _👯Sau đây tôi xin cập nhật những thông tin quan trọng của Khoa 
 
 # Danh sách Khoa CC-HSTC-CĐ
 
+Cập nhật ngày 19.4.2021
+
 STT | Họ và tên | Chức vụ | Ghi chú
 -- | -- | -- | -- 
 01 | Nguyễn Chí Thành | BSCK1 Trưởng khoa |  
