@@ -4,7 +4,7 @@ _👯Sau đây tôi xin cập nhật những thông tin quan trọng của Khoa 
 
 **🔭Lí lịch khoa:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/Es4ykn8vSV5Ev9UD4T3GYQcBdK6Ri1MIJOOBfDeFGrw90g?e=VBhocd 
 
-**🔭Các thông tin cần thiết của khoa:** https://pwht-my.sharepoint.com/:x:/g/personal/free426_office365vn_online/ESCih01spRlGumN-x7E3dKMBzVWfCgTo1hqzpcEIpviBSQ?e=l4QWKM
+**🔭Các thông tin cần thiết của khoa:** https://pwht-my.sharepoint.com/:x:/g/personal/free426_office365vn_online/ESCih01spRlGumN-x7E3dKMBa9_4CNWhONGnS1JXw6sJpQ?e=HOG0jk  
 
 **🔭Bằng cấp của khoa:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EgKyjvWebndDln15IHCtFoIBfztEbaz61cjWdrFq6hinaw?e=CY26Tt 
 
