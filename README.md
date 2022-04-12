@@ -30,3 +30,4 @@ STT | Họ và tên | Chức vụ | Ghi chú
 14 | Dương Minh Toàn | ĐD | |  
 15 | Nguyễn Thị Sên | Hộ lý | |  
 
+[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/zsLKfy4jcuzFaPQx6)
