@@ -17,7 +17,7 @@ STT | Họ và tên | Chức vụ | Ghi chú
 01 | Nguyễn Chí Thành | BSCK1 | Trưởng khoa |  
 02 | Võ Minh Hiếu | BSCK1 | Phó khoa |  
 03 | Trịnh Bảo Trung | BSCK1 |  |  
-04
+04 | Kim Diễm Mi | BS ||
 05 | Nguyễn Văn Cường | ĐD Trưởng khoa |  |  
 06 | Nguyễn Nhi Thanh | CN | |  
 07 | Võ Cẩm Chiêu | CĐ ĐD | |  
