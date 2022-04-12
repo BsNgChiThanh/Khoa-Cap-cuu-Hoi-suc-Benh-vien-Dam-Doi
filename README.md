@@ -1,16 +1,6 @@
 # KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI #
 
-_👯Sau đây tôi xin cập nhật những thông tin quan trọng của Khoa CC_HSTC_CĐ!👯_
-
-**🔭Lí lịch khoa:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/Es4ykn8vSV5Ev9UD4T3GYQcBdK6Ri1MIJOOBfDeFGrw90g?e=VBhocd 
-
-**🔭Các thông tin cần thiết của khoa:** https://drive.google.com/file/d/1K0P6V7HnbpjHIrs22U-5HOlubhItlOaD/view?usp=sharing   
-
-**🔭Bằng cấp của khoa:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EgKyjvWebndDln15IHCtFoIBfztEbaz61cjWdrFq6hinaw?e=CY26Tt 
-
-# Danh sách Khoa CC-HSTC-CĐ
-
-Cập nhật ngày 19.4.2021
+## DANH SÁCH CÁN BỘ ##
 
 STT | Họ và tên | Chức vụ | Ghi chú
 -- | -- | -- | -- 
