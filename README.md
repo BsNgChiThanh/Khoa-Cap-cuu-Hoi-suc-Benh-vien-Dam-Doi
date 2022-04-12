@@ -19,7 +19,7 @@ STT | Họ và tên | Chức vụ | Ghi chú
 03 | Trịnh Bảo Trung | BSCK1 |  |  
 04 | Kim Diễm Mi | BS ||
 05 | Nguyễn Văn Cường | ĐD Trưởng khoa |  |  
-06 | Nguyễn Nhi Thanh | CN | |  
+06 | Lâm Thị Nguyên | CN | |  
 07 | Võ Cẩm Chiêu | CĐ ĐD | |  
 08 | Thang Hoa Xuân | CĐ ĐD | |  
 09 | Mai Việt Khái | CĐ ĐD | |  
