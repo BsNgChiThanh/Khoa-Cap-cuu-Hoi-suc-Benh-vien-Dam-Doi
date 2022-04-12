@@ -14,7 +14,7 @@ Cập nhật ngày 19.4.2021
 
 STT | Họ và tên | Chức vụ | Ghi chú
 -- | -- | -- | -- 
-01 | Nguyễn Chí Thành | BSCK1 Trưởng khoa |  
+01 | Nguyễn Chí Thành | BSCK1 | Trưởng khoa |  
 02 | Võ Minh Hiếu | BSCK1 | Phó khoa |  
 03 | Trịnh Bảo Trung | BSCK1 |  |  
 04
