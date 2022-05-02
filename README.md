@@ -10,7 +10,7 @@ STT | Họ và tên | Chức danh | Ghi chú
 01 | Nguyễn Chí Thành | BSCK1 Nội TQ | Trưởng khoa |  
 02 | Võ Minh Hiếu | BSCK1 HSCC | Phó khoa |  
 03 | Trịnh Bảo Trung | BSCK1 HSCC |  |  
-04 | Kim Diễm Mi | BS ||
+04 | Kim Diễm Mi | BS đa khoa ||
 05 | Nguyễn Văn Cường |CN| ĐD Trưởng khoa | 
 06 | Lâm Thị Nguyên | CN | |  
 07 | Võ Cẩm Chiêu | CĐ ĐD | |  
@@ -21,7 +21,7 @@ STT | Họ và tên | Chức danh | Ghi chú
 12 | Lê Minh Trí | CĐ ĐD | |  
 13 | Đặng Nga Mi | CĐ ĐD | |  
 14 | Dương Minh Toàn | ĐD | |  
-15|Phạm Thu Trang|ĐD|
+15|Phạm Thu Trang|CĐĐD||
 16 | Nguyễn Thị Sên | Hộ lý | |  
 
 [Chia sẽ địa điểm trên Google map](https://goo.gl/maps/zsLKfy4jcuzFaPQx6)
