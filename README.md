@@ -5,13 +5,13 @@ Khoa Cấp cứu Bệnh viện Đa khoa Đầm Dơi
 
 ## DANH SÁCH CÁN BỘ ##
 
-STT | Họ và tên | Chức vụ | Ghi chú
+STT | Họ và tên | Chức danh | Ghi chú
 -- | -- | -- | -- 
-01 | Nguyễn Chí Thành | BSCK1 | Trưởng khoa |  
-02 | Võ Minh Hiếu | BSCK1 | Phó khoa |  
-03 | Trịnh Bảo Trung | BSCK1 |  |  
+01 | Nguyễn Chí Thành | BSCK1 Nội TQ | Trưởng khoa |  
+02 | Võ Minh Hiếu | BSCK1 HSCC | Phó khoa |  
+03 | Trịnh Bảo Trung | BSCK1 HSCC |  |  
 04 | Kim Diễm Mi | BS ||
-05 | Nguyễn Văn Cường | ĐD Trưởng khoa |  |  
+05 | Nguyễn Văn Cường |CN| ĐD Trưởng khoa | 
 06 | Lâm Thị Nguyên | CN | |  
 07 | Võ Cẩm Chiêu | CĐ ĐD | |  
 08 | Thang Hoa Xuân | CĐ ĐD | |  
