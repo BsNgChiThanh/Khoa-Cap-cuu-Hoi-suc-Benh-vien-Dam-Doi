@@ -21,6 +21,7 @@ STT | Họ và tên | Chức vụ | Ghi chú
 12 | Lê Minh Trí | CĐ ĐD | |  
 13 | Đặng Nga Mi | CĐ ĐD | |  
 14 | Dương Minh Toàn | ĐD | |  
-15 | Nguyễn Thị Sên | Hộ lý | |  
+15|Phạm Thu Trang|ĐD|
+16 | Nguyễn Thị Sên | Hộ lý | |  
 
 [Chia sẽ địa điểm trên Google map](https://goo.gl/maps/zsLKfy4jcuzFaPQx6)
