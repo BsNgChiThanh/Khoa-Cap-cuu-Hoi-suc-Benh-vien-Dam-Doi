@@ -1,7 +1,9 @@
-# Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi
-Khoa Cấp cứu Bệnh viện Đa khoa Đầm Dơi
-
 # KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI #
+
+- **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
+- **[Qui chế CC-HSTC-CĐ](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
+- **[Qui trình chuyên môn](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
+- **[Mẫu thẻ phản vệ theo TT 51](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
 
 ## DANH SÁCH CÁN BỘ ##
 
@@ -135,6 +137,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 
 - **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
 - **[Đánh giá viên chức năm 2020](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnMXrpn6BBtAqgz3SvqM-YQBRXFXT7L8FvLd4juvCyH2tQ?e=cm1buh)**
+- **[Đánh giá viên chức năm 2019](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
 
 # THÀNH TÍCH KHOA #
 
