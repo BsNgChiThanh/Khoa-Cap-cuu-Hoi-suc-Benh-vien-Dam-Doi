@@ -7,24 +7,24 @@
 
 ## DANH SÁCH CÁN BỘ ##
 
-STT | Họ và tên | Chức danh | Ghi chú
--- | -- | -- | -- 
-01 | Nguyễn Chí Thành | BSCK1 Nội TQ | Trưởng khoa |  
-02 | Võ Minh Hiếu | BSCK1 HSCC | Phó khoa |  
-03 | Trịnh Bảo Trung | BSCK1 HSCC |  |  
-04 | Kim Diễm Mi | BS đa khoa ||
-05 | Nguyễn Văn Cường |CN| ĐD Trưởng khoa | 
-06 | Lâm Thị Nguyên | CN | |  
-07 | Võ Cẩm Chiêu | CĐ ĐD | |  
-08 | Thang Hoa Xuân | CĐ ĐD | |  
-09 | Mai Việt Khái | CĐ ĐD | |  
-10 | Phạm Thùy Trang | CĐ ĐD | |  
-11 | Nguyễn Vũ Linh | CĐ ĐD | |  
-12 | Lê Minh Trí | CĐ ĐD | |  
-13 | Đặng Nga Mi | CĐ ĐD | |  
-14 | Dương Minh Toàn | ĐD | |  
-15|Phạm Thu Trang|CĐĐD||
-16 | Nguyễn Thị Sên | Hộ lý | |  
+STT | Họ và tên | Chức danh | CCCD| Ngày cấp|Mail|Nhóm máu| Ghi chú
+--  | --        | --        | --  |--       |--  |--      |--
+01 | Nguyễn Chí Thành | BSCK1 Nội TQ |096076000775|20/04/2021|bsnguyenchithanh@gmail.com|B|Trưởng khoa |  
+02 | Võ Minh Hiếu | BSCK1 HSCC |096081013549|16/08/2021|Hieubsck1hscc822237@gmail.com|O|Phó khoa |  
+03 | Trịnh Bảo Trung | BSCK1 HSCC |096082010905|14/08/2021|bstrungdd@gmail.com|O| |  
+04 | Kim Diễm Mi | BS đa khoa |096195012517|18/11/2021|Diemmi1105.MK@gmail.com|AB||
+05 | Nguyễn Văn Cường |CN|096086005744|16/09/2021|nguyenvancuong02091986@gmail.com|A| ĐD Trưởng khoa | 
+06 | Lâm Thị Nguyên | CN |095186007822|27/10/2022|Lamnguyen27bl@gmail.com|B| |  
+07 | Võ Cẩm Chiêu | CĐ ĐD |096192010822|14/08/2021|chieuvo.27071993@gmail.com|B| |  
+08 | Thang Hoa Xuân | CĐ ĐD |096193000787|21/04/2021 | hoaxuan696@gmail.com|B|| 
+09 | Mai Việt Khái | CĐ ĐD |096092009916|16/09/2021|cnmaikhai@gmail.com|B| |  
+10 | Phạm Thùy Trang | CĐ ĐD |096192014804|14/08/2021| Phamthuytrang9999@gmail.com|A||  
+11 | Nguyễn Vũ Linh | CĐ ĐD |096090008258|21/11/2021|Linhnhi060703@gmail.com|B| |  
+12 | Lê Minh Trí | CĐ ĐD |096091002727|14/08/2021| tri0009minh@gmail.com|O||  
+13 | Đặng Nga Mi | CĐ ĐD |096194000654|13/04/2022|dangmy01234567@gmail.com|B| |  
+14 | Dương Minh Toàn | ĐD |096091012641|11/08/2021|ysyduongminhtoan@gmail.com|A| |  
+15|Dương Diễm Hương|CĐĐD|096193011866|16/09/2021|hduongdiem@gmail.com|O||
+16 | Nguyễn Thị Sên | Hộ lý |096175007794|14/08/2021|Nguyensen.210222@gmail.com|O| |  
 
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 
