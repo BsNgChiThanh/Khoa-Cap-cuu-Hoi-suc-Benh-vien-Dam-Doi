@@ -135,6 +135,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 4. Cơ quan, tổ chức, đơn vị thuộc thẩm quyền phụ trách, quản lý trực tiếp liên quan đến tham ô, tham nhũng, lãng phí và bị xử lý theo quy định của pháp luật.
 5. Có hành vi vi phạm trong quá trình thực thi nhiệm vụ bị xử lý kỷ luật trong năm đánh giá.
 
+- **[Đánh giá viên chức năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Eq8MLjG7vG5BsueVBoYjlNkB-R-1BT8kSUZWdSdgOmm55g?e=9dldbE)**
 - **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
 - **[Đánh giá viên chức năm 2020](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnMXrpn6BBtAqgz3SvqM-YQBRXFXT7L8FvLd4juvCyH2tQ?e=cm1buh)**
 - **[Đánh giá viên chức năm 2019](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
