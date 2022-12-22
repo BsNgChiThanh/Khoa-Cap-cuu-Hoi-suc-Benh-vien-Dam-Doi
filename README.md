@@ -143,6 +143,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 
 |Năm|TTLĐTT|TTLĐXS|BKUBND Tỉnh|Ghi chú|
 |--|--|--|--|--|
+|2022|
 |2021|x|x|x||
 |2020|x|x|||
 |2019|x||||
