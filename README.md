@@ -23,8 +23,9 @@
 12 | Lê Minh Trí | CĐ ĐD|0913.474.482|01/01/1991|Tân Phú - Tân Trung||096091002727|14/08/2021| tri0009minh@gmail.com|O|||  
 13 | Đặng Nga Mi | CĐ ĐD|0911.544.366|11/5/1994|Lý Ấn - Hưng Mỹ|Khóm 6 TT Đầm Dơi|096194000654|13/04/2022|dangmy01234567@gmail.com|B|| |  
 14 | Dương Minh Toàn | ĐD|0943.797.398|21/5/1991|Xóm Dừa - Quách Phẩm|Xóm Dừa - Quách Phẩm|096091012641|11/08/2021|ysyduongminhtoan@gmail.com|A|| |  
-15|Dương Diễm Hương|CĐĐD|0948.938.830|||Mương Điều B - TAK|096193011866|16/09/2021|hduongdiem@gmail.com|O|||
-16 | Nguyễn Thị Sên | Hộ lý|0827.232.701 hoặc 0913.369.190|||Khóm 2 TT Đầm Dơi|096175007794|14/08/2021|Nguyensen.210222@gmail.com|O|| |  
+15 |Dương Diễm Hương|CĐĐD|0948.938.830|||Mương Điều B - TAK|096193011866|16/09/2021|hduongdiem@gmail.com|O|||
+16 | Dương Gia Bảo | Bác sĩ |||Khóm 4 TT Đầm Dơi|Khóm 4 TT Đầm Dơi|||||
+17 | Nguyễn Thị Sên | Hộ lý|0827.232.701 hoặc 0913.369.190|||Khóm 2 TT Đầm Dơi|096175007794|14/08/2021|Nguyensen.210222@gmail.com|O|| |  
 
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 
