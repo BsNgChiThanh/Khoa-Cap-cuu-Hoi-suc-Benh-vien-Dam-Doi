@@ -11,19 +11,19 @@
 |--  | --        | --        |--|--        | --| --  |--|--       |--  |--     |-- |--|
 01|Nguyễn Chí Thành | BSCK1 Nội TQ |0914.678.254|15/12/1976|Tân Phú - Tân Dân|Khóm 4 TT Đầm Dơi|096076000775|20/04/2021|bsnguyenchithanh@gmail.com|B|9402000772|Trưởng khoa|  
 02|Võ Minh Hiếu| BSCK1 HSCC |0919.822.237|20/02/1981|Tân Thành - Nguyễn Huân|Tân Thành - Nguyễn Huân|096081013549|16/08/2021|Hieubsck1hscc822237@gmail.com|O|9404000836|Phó khoa| 
-03|Trịnh Bảo Trung| BSCK1 HSCC |0918.738.822|04/11/1982|Tân Khánh - Tân Duyệt|Tân Khánh - Tân Duyệt|096082010905|14/08/2021|bstrungdd@gmail.com|O|||  
+03|Trịnh Bảo Trung| BSCK1 HSCC |0918.738.822|04/11/1982|Tân Khánh - Tân Duyệt|Tân Khánh - Tân Duyệt|096082010905|14/08/2021|bstrungdd@gmail.com|O|9406001890||  
 04|Kim Diễm Mi| BS đa khoa |0941.876.787|07/08/1995|Ấp 9-Nguyễn Phích - U Minh|Tân Hùng-Ngọc Chánh|096195012517|18/11/2021|Diemmi1105.MK@gmail.com|AB|9622029758||
 05 | Nguyễn Văn Cường |CN|0942.404.260|02/9/1986|Tân Điền B - TAK|Tân Thành B - TAK Nam|096086005744|16/09/2021|nguyenvancuong02091986@gmail.com|A|9610002051|ĐD Trưởng khoa| 
 06 | Lâm Thị Nguyên | CN |0917.677.515|13/8/1986|Vĩnh Trạch - TX Bạc Liêu|Khóm 5 TT Đầm Dơi|095186007822|27/10/2022|Lamnguyen27bl@gmail.com|B|9608003651||  
 07 | Võ Cẩm Chiêu | CN|0829.269.965|27/7/1992|Mương Điều B - TAK|Mương Điều B - TAK|096192010822|14/08/2021|chieuvo.27071993@gmail.com|B|9616010866| |  
 08 | Thang Hoa Xuân | CĐ ĐD|0945.207.475|01/01/1993|Nhị Nguyệt - Trần Phán|Nhị Nguyệt - Trần Phán|096193000787|21/04/2021 | hoaxuan696@gmail.com|B|9614006353|| 
 09 | Mai Việt Khái | CĐ ĐD|	0915.182.871|06/5/1992|Đồng Tâm A - Tân Duyệt|Đồng Tâm A - Tân Duyệt|096092009916|16/09/2021|cnmaikhai@gmail.com|B|9615002045| |  
-10 | Phạm Thùy Trang | CĐ ĐD|0834.600.101|16/02/1992||Thành Vọng -Tân Trung|096192014804|14/08/2021| Phamthuytrang9999@gmail.com|A|9615006548||  
-11 | Nguyễn Vũ Linh | CN|0888.620.057|06/3/1990||Phường 8-Tp Cà Mau|096090008258|21/11/2021|Linhnhi060703@gmail.com|B|9614006204| |  
+10 | Phạm Thùy Trang | CĐ ĐD|0834.600.101|16/02/1992|Ấp Tân Đức – Xã Tân Đức|Thành Vọng -Tân Trung|096192014804|14/08/2021| Phamthuytrang9999@gmail.com|A|9615006548||
+11 | Nguyễn Vũ Linh | CN|0888.620.057|06/3/1990|Số nhà 290 Ấp 10A Xã Trần Hợi|Phường 8-Tp Cà Mau|096090008258|21/11/2021|Linhnhi060703@gmail.com|B|9614006204| |  
 12 | Lê Minh Trí | CĐ ĐD|0913.474.482|01/01/1991|Tân Phú - Tân Trung|Tân Thới B- TAK Đông|096091002727|14/08/2021| tri0009minh@gmail.com|O|9622063302||  
 13 | Đặng Nga Mi | CĐ ĐD|0911.544.366|11/5/1994|Lý Ấn - Hưng Mỹ|Khóm 6 TT Đầm Dơi|096194000654|13/04/2022|dangmy01234567@gmail.com|B|9622929935| |  
 14 | Dương Minh Toàn | ĐD|0943.797.398|21/5/1991|Xóm Dừa - Quách Phẩm|Xóm Dừa - Quách Phẩm|096091012641|11/08/2021|ysyduongminhtoan@gmail.com|A|9622133221| |  
-15 |Dương Diễm Hương|CĐĐD|0948.938.830|28/8/1993|Tân Hồng - TAK Nam|Mương Điều B - TAK|096193011866|16/09/2021|hduongdiem@gmail.com|O|||
+15 |Dương Diễm Hương|CĐĐD|0948.938.830|28/8/1993|Tân Hồng - TAK Nam|Mương Điều B - TAK|096193011866|16/09/2021|hduongdiem@gmail.com|O|9616007988||
 16 | Dương Gia Bảo | Bác sĩ |0845000873|16/02/1998|Khóm 4 TT Đầm Dơi|Khóm 4 TT Đầm Dơi|096098008346|12/8/2021|duongbaodd@gmail.com|O|
 17 | Nguyễn Thị Sên | Hộ lý|0827.232.701 hoặc 0913.369.190|||Khóm 2 TT Đầm Dơi|096175007794|14/08/2021|Nguyensen.210222@gmail.com|O|9407000477| |  
 
