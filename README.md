@@ -1,9 +1,9 @@
 # KHOA CẤP CỨU - HỒI SỨC TÍCH CỰC - CHỐNG ĐỘC BỆNH VIỆN ĐA KHOA ĐẦM DƠI #
 
-- **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
-- **[Qui chế CC-HSTC-CĐ](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
-- **[Qui trình chuyên môn](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
-- **[Mẫu thẻ phản vệ theo TT 51](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
+- **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
+- **[Qui chế CC-HSTC-CĐ](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
+- **[Qui trình chuyên môn](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
+- **[Mẫu thẻ phản vệ theo TT 51](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
 
 ## DANH SÁCH CÁN BỘ ##
 
@@ -29,11 +29,11 @@
 
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 
-[Năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
+[Năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
 
 # ĐÁNH GIÁ VIÊN CHỨC CUỐI NĂM #
 
-Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EcPEOhFCb9tFoIlOgx14JYMBCNJt56HFNdzKc0Bqft-8Qg?e=vbqier)
+Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EcPEOhFCb9tFoIlOgx14JYMBCNJt56HFNdzKc0Bqft-8Qg?e=vbqier)
 
 **Thực hiện theo Nghị định 90/2020/NĐ-CP**
 
@@ -136,10 +136,10 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 4. Cơ quan, tổ chức, đơn vị thuộc thẩm quyền phụ trách, quản lý trực tiếp liên quan đến tham ô, tham nhũng, lãng phí và bị xử lý theo quy định của pháp luật.
 5. Có hành vi vi phạm trong quá trình thực thi nhiệm vụ bị xử lý kỷ luật trong năm đánh giá.
 
-- **[Đánh giá viên chức năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Eq8MLjG7vG5BsueVBoYjlNkB-R-1BT8kSUZWdSdgOmm55g?e=9dldbE)**
-- **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
-- **[Đánh giá viên chức năm 2020](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EnMXrpn6BBtAqgz3SvqM-YQBRXFXT7L8FvLd4juvCyH2tQ?e=cm1buh)**
-- **[Đánh giá viên chức năm 2019](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
+- **[Đánh giá viên chức năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Eq8MLjG7vG5BsueVBoYjlNkB-R-1BT8kSUZWdSdgOmm55g?e=9dldbE)**
+- **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
+- **[Đánh giá viên chức năm 2020](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EnMXrpn6BBtAqgz3SvqM-YQBRXFXT7L8FvLd4juvCyH2tQ?e=cm1buh)**
+- **[Đánh giá viên chức năm 2019](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYAVZ0QzddBDsAtEx3fQG6gBUexYULrgPQx5vD33OFqX9Q?e=vA4JdY)**
 
 # THÀNH TÍCH KHOA #
 
