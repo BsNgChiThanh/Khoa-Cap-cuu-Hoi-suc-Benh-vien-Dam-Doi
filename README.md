@@ -3,7 +3,7 @@
 - **[Qui chế bệnh viện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ESeUhCiSOv5OmJeeGK2MIFcBGisBolfrZrjEoIE4Eay0sg?e=HDsx88)**
 - **[Qui chế CC-HSTC-CĐ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EaddbcVYq85MpvGzDiCgAnQBvE2O7Mww76drLrtgwH-TKQ?e=bMzf1A)**
 - **[Qui trình chuyên môn](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EToOCDGuhF9KsTOQbNmRXCIB1KhufwsFr5d2803oWiVBig?e=knONvA)**
-- **[Mẫu thẻ phản vệ theo TT 51](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EZ8A0S0N2TlKrT7k9aJ9hukBk95u9xNl5-IShFqEnR1Pdg?e=PLepDl)**
+- **[Mẫu thẻ phản vệ theo TT 51](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EeUIhfIoknVBqjaX-Hb9z6sBL_hIzqGS2Dx1vFrU61PFcA?e=jAaAv9)**
 - **[Một số biểu mẫu](https://bsthanh-my.sharepoint.com/:f:/g/personal/khoacapcuu_bsthanh_tk/ErF-S4_URcVNtMHq1NqgF8YBfGtGZE0SkR4BsSN9U8-vAw?e=ewOBMC)**
 
 ## DANH SÁCH CÁN BỘ ##
