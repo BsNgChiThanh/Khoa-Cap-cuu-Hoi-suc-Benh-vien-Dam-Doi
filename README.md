@@ -13,7 +13,7 @@
 01|Nguyễn Chí Thành | BSCK1 Nội TQ |0914.678.254|15/12/1976|Tân Phú - Tân Dân|Khóm 4 TT Đầm Dơi|096076000775|20/04/2021|bsnguyenchithanh@gmail.com|B|9402000772|Trưởng khoa|  
 02|Võ Minh Hiếu| BSCK1 HSCC |0919.822.237|20/02/1981|Tân Thành - Nguyễn Huân|Tân Thành - Nguyễn Huân|096081013549|16/08/2021|Hieubsck1hscc822237@gmail.com|O|9404000836|Phó khoa| 
 03|Trịnh Bảo Trung| BSCK1 HSCC |0918.738.822|04/11/1982|Tân Khánh - Tân Duyệt|Tân Khánh - Tân Duyệt|096082010905|14/08/2021|bstrungdd@gmail.com|O|9406001890||  
-04|Võ Quốc Khái|Đang học CK1 HSCC|0829.145.072|
+04|Võ Quốc Khái|Đang học CK1 HSCC|0829.145.072|13/12/1995|Trung Cang - Tân Trung|Trung Cang - Tân Trung|096095002243|14/8/2021|voquockhai97@gmail.com|O|9622087035
 05 | Nguyễn Văn Cường |CN|0942.404.260|02/9/1986|Tân Điền B - TAK|Tân Thành B - TAK Nam|096086005744|16/09/2021|nguyenvancuong02091986@gmail.com|A|9610002051|ĐD Trưởng khoa| 
 06 | Lâm Thị Nguyên | CN |0917.677.515|13/8/1986|Vĩnh Trạch - TX Bạc Liêu|Khóm 5 TT Đầm Dơi|095186007822|27/10/2022|Lamnguyen27bl@gmail.com|B|9608003651||  
 07 | Võ Cẩm Chiêu | CN|0829.269.965|27/7/1992|Mương Điều B - TAK|Mương Điều B - TAK|096192010822|14/08/2021|chieuvo.27071993@gmail.com|B|9616010866| |  
