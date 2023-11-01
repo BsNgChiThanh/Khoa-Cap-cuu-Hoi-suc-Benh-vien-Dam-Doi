@@ -38,21 +38,21 @@
 
 Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EcPEOhFCb9tFoIlOgx14JYMBCNJt56HFNdzKc0Bqft-8Qg?e=vbqier)
 
-**Thực hiện theo Nghị định 90/2020/NĐ-CP**
+## Thực hiện theo Nghị định 90/2020/NĐ-CP ##
 
 **Điều 3. Tiêu chí chung về đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức**
 
 1. Chính trị tư tưởng:
 
     a) Chấp hành chủ trương, đường lối, quy định của Đảng, chính sách, pháp luật của Nhà nước và các nguyên tắc tổ chức, kỷ luật của Đảng, nhất là nguyên tắc tập trung dân chủ, tự phê bình và phê bình;
-
+   
     b) Có quan điểm, bản lĩnh chính trị vững vàng; kiên định lập trường; không dao động trước mọi khó khăn, thách thức;
-
+   
     c) Đặt lợi ích của Đảng, quốc gia - dân tộc, nhân dân, tập thể lên trên lợi ích cá nhân;
-
+   
     d) Có ý thức nghiên cứu, học tập, vận dụng chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, nghị quyết, chỉ thị, quyết định và các văn bản của Đảng.
 
-2. Đạo đức, lối sống:
+3. Đạo đức, lối sống:
 
     a) Không tham ô, tham nhũng, tiêu cực, lãng phí, quan liêu, cơ hội, vụ lợi, hách dịch, cửa quyền; không có biểu hiện suy thoái về đạo đức, lối sống, tự diễn biến, tự chuyển hóa;
 
@@ -62,7 +62,7 @@ Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/person
 
     d) Không để người thân, người quen lợi dụng chức vụ, quyền hạn của mình để trục lợi.
 
-3. Tác phong, lề lối làm việc:
+4. Tác phong, lề lối làm việc:
 
     a) Có trách nhiệm với công việc; năng động, sáng tạo, dám nghĩ, dám làm, linh hoạt trong thực hiện nhiệm vụ;
 
@@ -72,7 +72,7 @@ Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/person
 
     d) Có thái độ đúng mực và phong cách ứng xử, lề lối làm việc chuẩn mực, đáp ứng yêu cầu của văn hóa công vụ.
 
-4. Ý thức tổ chức kỷ luật:
+5. Ý thức tổ chức kỷ luật:
 
     a) Chấp hành sự phân công của tổ chức;
 
@@ -82,7 +82,7 @@ Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/person
 
     d) Báo cáo đầy đủ, trung thực, cung cấp thông tin chính xác, khách quan về những nội dung liên quan đến việc thực hiện chức trách, nhiệm vụ được giao và hoạt động của cơ quan, tổ chức, đơn vị với cấp trên khi được yêu cầu.
 
-5. Kết quả thực hiện chức trách, nhiệm vụ được giao:
+6. Kết quả thực hiện chức trách, nhiệm vụ được giao:
 
     a) Đối với cán bộ, công chức, viên chức lãnh đạo, quản lý:
 ```php
@@ -138,6 +138,19 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 3. Cơ quan, tổ chức, đơn vị hoặc ngành, lĩnh vực công tác được giao phụ trách hoàn thành dưới 50% các chỉ tiêu, nhiệm vụ.
 4. Cơ quan, tổ chức, đơn vị thuộc thẩm quyền phụ trách, quản lý trực tiếp liên quan đến tham ô, tham nhũng, lãng phí và bị xử lý theo quy định của pháp luật.
 5. Có hành vi vi phạm trong quá trình thực thi nhiệm vụ bị xử lý kỷ luật trong năm đánh giá.
+
+## THEO QUYẾT ĐỊNH CỦA BỆNH VIỆN: ##
+
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0001](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b3ae19d8-5293-42e1-9d31-c84a7e33eed7)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0002](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f6752409-473f-4f46-89b2-6d8189d18f3b)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0003](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/a6072aa6-c48c-46a9-ad31-74de57f9bdd5)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0004](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f3fa7013-8d04-4e25-bc9d-580d5e2db58d)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0005](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/5eadc866-4ddd-4b86-a980-c63294e4a6bb)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0006](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/94234a95-df3b-489c-a65b-273a5f4e2fac)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0007](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/8913c394-7272-46cb-a3ab-4fdc31a337e2)
+    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0008](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b136aecb-a8ea-4d4b-8b6f-2860b39b8e94)
+    
+## KẾT QUẢ ĐÁNH GIÁ VIÊN CHỨC TẠI KHOA: ##
 
 - **[Đánh giá viên chức năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Eq8MLjG7vG5BsueVBoYjlNkB-R-1BT8kSUZWdSdgOmm55g?e=9dldbE)**
 - **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
