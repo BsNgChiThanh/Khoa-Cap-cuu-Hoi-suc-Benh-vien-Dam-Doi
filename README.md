@@ -137,7 +137,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 4. Cơ quan, tổ chức, đơn vị thuộc thẩm quyền phụ trách, quản lý trực tiếp liên quan đến tham ô, tham nhũng, lãng phí và bị xử lý theo quy định của pháp luật.
 5. Có hành vi vi phạm trong quá trình thực thi nhiệm vụ bị xử lý kỷ luật trong năm đánh giá.
 
-## THEO QUYẾT ĐỊNH CỦA BỆNH VIỆN: ##
+## Theo quyết định của bệnh viện: ##
 
 - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0001](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b3ae19d8-5293-42e1-9d31-c84a7e33eed7)
 - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0002](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f6752409-473f-4f46-89b2-6d8189d18f3b)
