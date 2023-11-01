@@ -36,8 +36,6 @@
 
 # ĐÁNH GIÁ VIÊN CHỨC CUỐI NĂM #
 
-Quyết định [số 262/QĐ-BV](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EcPEOhFCb9tFoIlOgx14JYMBCNJt56HFNdzKc0Bqft-8Qg?e=vbqier)
-
 ## Thực hiện theo Nghị định 90/2020/NĐ-CP ##
 
 **Điều 3. Tiêu chí chung về đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức**
