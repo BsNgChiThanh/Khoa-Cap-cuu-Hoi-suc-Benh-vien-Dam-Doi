@@ -139,14 +139,14 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 
 ## THEO QUYẾT ĐỊNH CỦA BỆNH VIỆN: ##
 
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0001](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b3ae19d8-5293-42e1-9d31-c84a7e33eed7)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0002](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f6752409-473f-4f46-89b2-6d8189d18f3b)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0003](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/a6072aa6-c48c-46a9-ad31-74de57f9bdd5)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0004](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f3fa7013-8d04-4e25-bc9d-580d5e2db58d)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0005](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/5eadc866-4ddd-4b86-a980-c63294e4a6bb)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0006](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/94234a95-df3b-489c-a65b-273a5f4e2fac)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0007](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/8913c394-7272-46cb-a3ab-4fdc31a337e2)
-    - ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0008](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b136aecb-a8ea-4d4b-8b6f-2860b39b8e94)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0001](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b3ae19d8-5293-42e1-9d31-c84a7e33eed7)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0002](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f6752409-473f-4f46-89b2-6d8189d18f3b)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0003](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/a6072aa6-c48c-46a9-ad31-74de57f9bdd5)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0004](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/f3fa7013-8d04-4e25-bc9d-580d5e2db58d)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0005](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/5eadc866-4ddd-4b86-a980-c63294e4a6bb)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0006](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/94234a95-df3b-489c-a65b-273a5f4e2fac)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0007](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/8913c394-7272-46cb-a3ab-4fdc31a337e2)
+- ![Quyet dinh ban hanh quy che danh gia xep loai VC-NLD_page-0008](https://github.com/BsNgChiThanh/Khoa-Cap-cuu-Hoi-suc-Benh-vien-Dam-Doi/assets/82578024/b136aecb-a8ea-4d4b-8b6f-2860b39b8e94)
     
 ## KẾT QUẢ ĐÁNH GIÁ VIÊN CHỨC TẠI KHOA: ##
 
