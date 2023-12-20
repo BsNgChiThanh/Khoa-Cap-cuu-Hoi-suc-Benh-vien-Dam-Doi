@@ -24,12 +24,8 @@
 12 | Lê Minh Trí      | CĐ ĐD           |0913.474.482 |01/01/1991|Tân Phú-Tân Trung     |Tân Thới B- TAK Đông |096091002727|14/08/2021| tri0009minh@gmail.com          |O|9622063302||  
 13 | Dương Minh Toàn  | CĐ ĐD           |0943.797.398 |21/5/1991 |Xóm Dừa - Quách Phẩm  |Xóm Dừa - Quách Phẩm |096091012641|11/08/2021|ysyduongminhtoan@gmail.com      |A|9622133221| |  
 14 | Dương Diễm Hương | CĐ ĐD           |0948.938.830 |28/8/1993 |Tân Hồng-TAK Nam      |Mương Điều B - TAK   |096193011866|16/09/2021|hduongdiem@gmail.com            |O|9616007988||
-15 | Dương Gia Bảo    | Bác sĩ          |0845.000.873 |16/02/1998|Khóm 4 TT Đầm Dơi     |Khóm 4 TT Đầm Dơi    |096098008346|12/8/2021 |duongbaodd@gmail.com            |O|
-16 | Hồ Thị Hằng      | Hộ Lý           |
-~~17~~ | ~~Nguyễn Thị Sên~~ | ~~Hộ lý~~|~~0827.232.701 hoặc 0913.369.190~~|||~~Khóm 2 TT Đầm Dơi~~|~~096175007794~~|~~14/08/2021~~|~~Nguyensen.210222@gmail.com~~|~~O~~|~~9407000477~~| |  
-~~18~~ | ~~Kim Diễm Mi~~ | ~~BS đa khoa~~ |~~0941.876.787~~|~~07/08/1995~~|~~Ấp 9-Nguyễn Phích - U Minh~~|~~Tân Hùng-Ngọc Chánh~~|~~096195012517~~|~~18/11/2021~~|~~Diemmi1105.MK@gmail.com~~|~~AB~~|~~9622029758~~||
-~~19~~|~~Đặng Nga Mi~~ | ~~CĐ ĐD~~|~~0911.544.366~~|~~11/5/1994~~|~~Lý Ấn - Hưng Mỹ~~|~~Khóm 6 TT Đầm Dơi~~|~~096194000654~~|~~13/04/2022~~|~~dangmy01234567@gmail.com~~|~~B~~|~~9622929935~~| |  
-~~20~~ | ~~Lâm Thị Nguyên~~ | CN |0917.677.515|13/8/1986|Vĩnh Trạch - TX Bạc Liêu|Khóm 5 TT Đầm Dơi|095186007822|27/10/2022|Lamnguyen27bl@gmail.com|B|9608003651||  
+15 | Hồ Thị Hằng      | Hộ Lý           |
+
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 - [Năm 2023](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
 - [Năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
