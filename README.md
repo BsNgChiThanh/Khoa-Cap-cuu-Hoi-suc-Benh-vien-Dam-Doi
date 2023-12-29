@@ -146,7 +146,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
     
 ## KẾT QUẢ ĐÁNH GIÁ VIÊN CHỨC TẠI KHOA: ##
 
-- **[Đánh giá viên chức năm 2023](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EtRVWy4eOzBNkgp8Ar7gqzUBFawfvtcj6I4ofX4waIIH2w?e=0AaC5m)**
+- **[Đánh giá viên chức năm 2023](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Ek1hSR8S3kdBj3Mz_t3RSRAB8mkfDnVVKSvHN9TQCv80vw?e=fGFa6Z)**
 - **[Đánh giá viên chức năm 2022](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Eq8MLjG7vG5BsueVBoYjlNkB-R-1BT8kSUZWdSdgOmm55g?e=9dldbE)**
 - **[Đánh giá viên chức năm 2021](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EnkPs5XbyMRNrMUsDCY_23kBDUR7dOxkbeWaILMRzQV4iw?e=O0Rjkj)**
 - **[Đánh giá viên chức năm 2020](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EnMXrpn6BBtAqgz3SvqM-YQBRXFXT7L8FvLd4juvCyH2tQ?e=cm1buh)**
