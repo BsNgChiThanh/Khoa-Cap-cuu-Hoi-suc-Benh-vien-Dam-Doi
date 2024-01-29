@@ -24,7 +24,8 @@
 12 | Lê Minh Trí      | CĐ ĐD           |0913.474.482 |01/01/1991|Tân Phú-Tân Trung     |Tân Thới B- TAK Đông |096091002727|14/08/2021| tri0009minh@gmail.com          |O|9622063302||  
 13 | Dương Minh Toàn  | CĐ ĐD           |0943.797.398 |21/5/1991 |Xóm Dừa - Quách Phẩm  |Xóm Dừa - Quách Phẩm |096091012641|11/08/2021|ysyduongminhtoan@gmail.com      |A|9622133221| |  
 14 | Dương Diễm Hương | CĐ ĐD           |0948.938.830 |28/8/1993 |Tân Hồng-TAK Nam      |Mương Điều B - TAK   |096193011866|16/09/2021|hduongdiem@gmail.com            |O|9616007988||
-15 | Hồ Thị Hằng      | Hộ Lý           |
+15 | Phan Kiều My | CN                  |0944.308.661 |29/8/2000 |Tân Thành-Tân Duyệt   |Tân Thành-Tân Duyệt  |096300004305|18//11/2021|phankieumy053@gmail.com|O|
+16 | Hồ Thị Hằng      | Hộ Lý           |
 
 # ĐĂNG KÍ HỌC TẬP LÀM THEO BÁC #
 - [Năm 2023](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/Epr2IrfPn-VAtu6FolOOEysBxjqm80m2WMR6hcMrti8Pmg?e=0TA21q)
@@ -156,7 +157,7 @@ Cán bộ có một trong các tiêu chí sau đây thì xếp loại chất lư
 
 |Năm|TTLĐTT|TTLĐXS|BKUBND Tỉnh|Ghi chú|
 |--|--|--|--|--|
-|2022| 
+|2023|x| 
 |2022|x|x
 |2021|x|x|x||
 |2020|x|x|||
